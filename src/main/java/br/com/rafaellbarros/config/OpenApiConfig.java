@@ -16,7 +16,7 @@ public class OpenApiConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("Aluno API")
+                        .title("Aluno API First")
                         .description("API para gerenciamento de alunos - API First")
                         .version("1.0.0")
                         .contact(new Contact()
